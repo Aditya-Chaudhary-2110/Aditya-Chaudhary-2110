@@ -1,39 +1,199 @@
-<h1 align="center">Hi 👋, I'm Aditya Chaudhary</h1>
-<h3 align="center">A Full Stack Developer from India, passionate about building real-world web applications with the MERN stack.</h3>
+<!-- ==================== HEADER ==================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-chaudhary-2110&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-chaudhary-2110" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-chaudhary-2110" alt="aditya-chaudhary-2110" /></a> </p>
+# 👋 Hi, I'm Aditya Chaudhary
 
-- 🔭 I’m currently working on [DevRise — an AI-powered interview preparation platform](https://devrise-h4w3.onrender.com)
+### Full Stack Developer | MERN Stack | JavaScript
 
-- 🌱 I’m currently learning **Advanced backend development, system design fundamentals, and Data Structures & Algorithms in Java.🌱 Exploring scalable backend architecture, API optimization, and modern full-stack development practices.**
+Building real-world web applications, exploring AI-powered solutions, and continuously improving my software engineering skills.
 
-- 👯 I’m looking to collaborate on **MERN stack projects, full-stack web applications, and AI-powered developer tools.**
+<br/>
 
-- 🤝 I’m looking for help with **Building scalable backend systems, writing clean code, and following industry-standard software development practices.**
+<a href="https://github.com/Aditya-Chaudhary-2110">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+<a href="https://linkedin.com/in/aditya-chaudhary-446745374">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/adiichaudhary">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aditya-Chaudhary-2110](https://github.com/Aditya-Chaudhary-2110)
+<br/><br/>
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, authentication, and full-stack web development.**
+<img src="https://komarev.com/ghpvc/?username=Aditya-Chaudhary-2110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-- 📫 How to reach me **chadityan2110@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://github.com/Aditya-Chaudhary-2110/Aditya-Chaudhary-2110/blob/main/Aditya_Chaudhary_Full_Stack_MERN_Developer_Resume.pdf](https://github.com/Aditya-Chaudhary-2110/Aditya-Chaudhary-2110/blob/main/Aditya_Chaudhary_Full_Stack_MERN_Developer_Resume.pdf)
+---
 
-- ⚡ Fun fact **I enjoy turning ideas into real-world applications and learning how things work under the hood.**
+<!-- ==================== ABOUT ME ==================== -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-chaudhary-446745374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-chaudhary-446745374" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adiichaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adiichaudhary" height="30" width="40" /></a>
+## 🚀 About Me
+
+- 💻 Full Stack Developer focused on the **MERN stack**.
+- 🔭 Building **[DevRise](https://devrise-h4w3.onrender.com)**, an AI-powered interview preparation platform.
+- 🛍️ Developed **[SellWave](https://sell-wave-sable.vercel.app)**, a full-stack marketplace application.
+- 🌱 Exploring backend architecture, API optimization, system design fundamentals, and DSA in Java.
+- 🤝 Interested in collaborating on full-stack applications and AI-powered developer tools.
+- 💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication.
+- 📫 Reach me at **chadityan2110@gmail.com**.
+- 📄 [View My Resume](https://github.com/Aditya-Chaudhary-2110/Aditya-Chaudhary-2110/blob/main/Aditya_Chaudhary_Full_Stack_MERN_Developer_Resume.pdf)
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c&theme=dark" alt="JavaScript, Java and C"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-chaudhary-2110&show_icons=true&locale=en&layout=compact" alt="aditya-chaudhary-2110" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux&theme=dark" alt="React, HTML, CSS, Tailwind CSS and Redux"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-chaudhary-2110&show_icons=true&locale=en" alt="aditya-chaudhary-2110" /></p>
+### Backend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chaudhary-2110&" alt="aditya-chaudhary-2110" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="MongoDB, MySQL and PostgreSQL"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Git, GitHub, Postman, VS Code and Vercel"/>
+</p>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 DevRise
+
+An AI-powered interview preparation platform designed to help developers learn technical concepts and prepare for interviews.
+
+**Key features**
+- AI-powered interview and MCQ generation
+- Learning modules and technical notes
+- Interview answer evaluation
+- Progress tracking and dashboard
+- JWT-based authentication
+
+**Tech:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Groq API
+
+[🌐 Live Demo](https://devrise-h4w3.onrender.com) · [📂 GitHub Profile](https://github.com/Aditya-Chaudhary-2110)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ SellWave
+
+A full-stack marketplace application featuring product listings, authentication, payments, and application workflows.
+
+**Key technologies**
+- React and Redux Toolkit
+- Clerk authentication
+- Express.js backend
+- Prisma and PostgreSQL
+- Stripe payment integration
+- Inngest and ImageKit
+
+**Tech:** React, Node.js, Express.js, Prisma, Neon PostgreSQL, Clerk, Stripe
+
+[🌐 Live Demo](https://sell-wave-sable.vercel.app) · [📂 GitHub Profile](https://github.com/Aditya-Chaudhary-2110)
+
+</td>
+</tr>
+</table>
+
+> **Source code:** The GitHub links above currently lead to my profile. Replace each with the corresponding repository URL once you've confirmed the exact repository names.
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Chaudhary-2110&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Chaudhary-2110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aditya-Chaudhary-2110&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+## 📈 Contribution Activity & Commit Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Chaudhary-2110&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph"/>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB PROFILE TROPHY ==================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya-Chaudhary-2110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Aditya-Chaudhary-2110">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/aditya-chaudhary-446745374">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/adiichaudhary">
+  <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:chadityan2110@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### 💡 Build. Learn. Improve. Repeat.
+
+*Thanks for visiting my profile!*
+
+</div>
